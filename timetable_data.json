@@ -1,0 +1,18 @@
+[
+    {
+        "subject": "PYLAB",
+        "day": "Monday",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "room": "S217",
+        "teacher": "Ramla Mam"
+    },
+    {
+        "subject": "IDE",
+        "day": "Monday",
+        "start_time": "13:30",
+        "end_time": "14:30",
+        "room": "S217",
+        "teacher": "Ramla Mam"
+    }
+]
